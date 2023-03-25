@@ -1,0 +1,10 @@
+{
+    "product":[
+        {"id":1,"name":"rice","quantity":100,"price":100},
+        {"id":2,"name":"dal","quantity":100,"price":100},
+        {"id":3,"name":"oil","quantity":100,"price":100},
+        {"id":4,"name":"onion","quantity":100,"price":100},
+        {"id":5,"name":"tamota","quantity":100,"price":100},
+        {"id":6,"name":"applee","quantity":100,"price":100}
+    ]
+}
